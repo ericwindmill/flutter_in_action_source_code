@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/counter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/counter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/counter_app_2.0/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/counter_app_2.0/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_4-5-6/weather_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_4-5-6/weather_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7-8-9/e_commerce/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7-8-9/e_commerce/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7-8-9/e_commerce/ios/.symlinks/plugins/image_picker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7-8-9/e_commerce/ios/.symlinks/plugins/image_picker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7-8-9/e_commerce/ios/.symlinks/plugins/image_picker/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7-8-9/e_commerce/ios/.symlinks/plugins/image_picker/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7-8-9/e_commerce/ios/.symlinks/plugins/path_provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7-8-9/e_commerce/ios/.symlinks/plugins/path_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7-8-9/e_commerce/ios/.symlinks/plugins/path_provider/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7-8-9/e_commerce/ios/.symlinks/plugins/path_provider/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_9/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_9/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapters_10-11/data_backend/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapters_10-11/data_backend/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapters_10-11/data_backend_web/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapters_10-11/data_backend_web/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapters_10-11/shared/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapters_10-11/shared/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
