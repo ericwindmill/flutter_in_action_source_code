@@ -5,6 +5,7 @@ import 'package:weather_app/page/page_container.dart';
 import 'package:weather_app/styles.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   AppSettings settings = AppSettings();
 
   // Don't allow landscape mode
